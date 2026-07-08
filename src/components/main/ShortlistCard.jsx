@@ -10,7 +10,7 @@ const ShortlistCard = () => {
             <p className='text-xs text-gray-400'>Required Vector Sync: Java, SQL, Database Architecture</p>
         </div>
       </div>
-      <button className='bg-[#1E1E24] hover:bg-[#2A2A32] rounded-lg border border-[#2A2A32] text-gray-300 text-xs font-semibold px-4 py-2'>View Mapping</button>
+      <button className='bg-[#1E1E24] hover:bg-[#2A2A32] rounded-lg border border-[#2A2A32] text-gray-300 text-xs font-semibold px-4 py-2 cursor-pointer'>View Mapping</button>
     </div>
   )
 }
