@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       {/* <Page/> */}
-      <LoginPanel></LoginPanel>
+      <Page />
     </div>
   )
 }

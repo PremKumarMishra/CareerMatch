@@ -60,6 +60,7 @@ const LoginPanel = () => {
           {/* Loop over fields depending on state */}
           {(isLogin ? loginFields : signupFields).map((field) => (
             <InputField
+              key={field.id}
               label={field.label}
               type={field.type}
               id={field.id}
