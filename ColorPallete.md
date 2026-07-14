@@ -46,7 +46,7 @@
 
 ## 🌟 Shadows & Effects
 
-| Name           | Tailwind                                                   |
+| Name           | Tailwind                                                  |
 |----------------|-----------------------------------------------------------|
 | Base Shadow    | shadow-[0_10px_30px_rgba(0,0,0,0.6)]                      |
 | Emerald Glow   | shadow-[0_10px_30px_rgba(16,185,129,0.15)]               |
